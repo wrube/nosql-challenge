@@ -10,5 +10,5 @@ The UK Food Standards Agency evaluates various establishments across the United 
 
 ## File Locations
 - JSON input dataset: `Resources/establishments.json`
-- Deliverable 1: `NoSQL_analysis.ipynb`
+- Deliverable 1: `NoSQL_setup.ipynb`
 - Deliverable 2: `NoSQL_analysis.ipynb`
